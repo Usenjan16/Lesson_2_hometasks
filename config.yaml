@@ -1,0 +1,6 @@
+base_url: https://robot-dreams-de-api.herokuapp.com
+service_path: /out_of_stock
+auth_path: /auth
+credentials:
+  username: rd_dreams
+  password: djT6LasE
